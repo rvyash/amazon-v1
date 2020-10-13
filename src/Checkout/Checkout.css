@@ -1,0 +1,48 @@
+.checkout_ad {
+    min-width: 64vw;
+    max-height: 22vh;
+    margin-bottom: 10px;
+    margin-right: 1px solid gray;
+}
+
+.checkout_ad_right {
+    min-width: 30vw;
+    max-width: 30vw;
+    max-height: 20vh;
+    min-height: 20vh;
+    margin-bottom: 10px;
+}
+
+.checkout {
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+    scroll-behavior: smooth;
+}
+
+.checkout_title {
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.checkout_left {
+    padding-right: 10px;
+}
+
+.checkout_right {
+    padding-right: 10px !important;
+}
+
+.coro>img {
+    display: flex;
+    max-width: 30vw;
+    max-height: 50vh;
+    margin-left: -29vw;
+    margin-top: 42vh;
+}
+
+img.coro1 {
+    margin-top: 10vh !important;
+}

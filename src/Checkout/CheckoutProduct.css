@@ -1,0 +1,50 @@
+.checkout_product {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 0.5px solid lightgray;
+}
+
+.checkout_product_info {
+    padding-left: 20px;
+    padding-bottom: 3vh;
+}
+
+.checkout_product_rating {
+    display: flex;
+    color: gold;
+}
+
+.checkout_product_image {
+    object-fit: contain;
+    width: 20vw;
+    min-height: 5vh;
+    max-height: 18vh;
+}
+
+.button {
+    background: #f0b217;
+    border-radius: 2px;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: black;
+    margin-top: 10px;
+    width: 100px;
+}
+
+.button:hover {
+    background: #f0c14b;
+    cursor: pointer;
+}
+
+.checkout_product_title {
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 2vh;
+}
+
+small.inr_logo {
+    display: flex;
+    float: left !important;
+    margin: 2.5px;
+}

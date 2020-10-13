@@ -1,0 +1,10 @@
+.prelogin {
+    background: white;
+}
+
+.prelogin_image>img {
+    width: 80vw;
+    z-index: -1;
+    margin-left: 20vh;
+    border-image-repeat: repeat;
+}
