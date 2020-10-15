@@ -1,3 +1,4 @@
+/* This is the palyment file */
 import React, { useState, useEffect } from "react";
 import "./Payment.css";
 import { useStateValue } from "../State/StateProvider";
