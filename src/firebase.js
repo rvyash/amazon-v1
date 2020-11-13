@@ -1,4 +1,4 @@
-// firebase.js 
+// firebase.js: Firebase configuration file
 import firebase from "firebase";
 
 const firebaseConfig = {
