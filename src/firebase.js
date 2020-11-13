@@ -1,3 +1,4 @@
+// firebase.js 
 import firebase from "firebase";
 
 const firebaseConfig = {
