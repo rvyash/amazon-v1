@@ -15,10 +15,9 @@ function Header() {
             auth.signOut().then(alert("You have successfully Logged Out"));
         }
     };
-    return ( <
-        div className = "header" >
-        <
-        Link to = "/" >
+    return ( 
+       <div className = "header" >
+        <Link to = "/" >
         <
         img className = "header_logo"
         src = "https://pngimg.com/uploads/amazon/amazon_PNG11.png" /
