@@ -22,13 +22,10 @@ function Header() {
         src = "https://pngimg.com/uploads/amazon/amazon_PNG11.png" />
         </Link> <
         div className = "header_search" >
-        <
-        input className = "header_search_input"
-        type = "text" / >
-        <
-        SearchIcon class = "header_search_icon" / >
-        <
-        /div>{" "} <
+        <input className = "header_search_input"
+        type = "text" />
+        <SearchIcon class = "header_search_icon" />
+        </div>{" "} <
         div className = "header_nav" >
         <
         Link to = {!user && "/login" } >
