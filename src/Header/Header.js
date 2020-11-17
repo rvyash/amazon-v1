@@ -25,8 +25,8 @@ function Header() {
         <input className = "header_search_input"
         type = "text" />
         <SearchIcon class = "header_search_icon" />
-        </div>{" "} <
-        div className = "header_nav" >
+        </div> 
+        <div className = "header_nav" >
         <
         Link to = {!user && "/login" } >
         <
