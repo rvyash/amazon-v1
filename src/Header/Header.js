@@ -34,8 +34,8 @@ function Header() {
         Hi, {!user ? "Guest" : user.email }
         </span>
         <span className = "header_optionTwo" > { " " } { user ? "Sign Out" : "Sign In" } { " " } 
-        </span>{" "} <
-        /div>{" "} <
+        </span>
+        </div>{" "} <
         /Link> <
         div className = "header_option" >
         <
