@@ -35,9 +35,9 @@ function Header() {
         </span>
         <span className = "header_optionTwo" > { " " } { user ? "Sign Out" : "Sign In" } { " " } 
         </span>
-        </div>{" "} <
-        /Link> <
-        div className = "header_option" >
+        </div>
+        </Link> 
+        <div className = "header_option" >
         <
         span className = "header_optionOne" > { user ? "Returns" : " " } < /span>{" "} <
         span className = "header_optionTwo" > { user ? "& Order" : " " } < /span>{" "} <
