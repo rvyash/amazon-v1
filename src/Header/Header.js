@@ -31,8 +31,8 @@ function Header() {
         <div className = "header_option"
         onClick = { handleAuthentication } >
         <span className = "header_optionOne" >
-        Hi, {!user ? "Guest" : user.email } { " " }
-        </span>{" "} 
+        Hi, {!user ? "Guest" : user.email }
+        </span>
         <span className = "header_optionTwo" > { " " } { user ? "Sign Out" : "Sign In" } { " " } 
         </span>{" "} <
         /div>{" "} <
