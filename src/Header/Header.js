@@ -33,12 +33,12 @@ function Header() {
         <span className = "header_optionOne" >
         Hi, {!user ? "Guest" : user.email }
         </span>
-        <span className = "header_optionTwo" > { " " } { user ? "Sign Out" : "Sign In" } 
+        <span className = "header_optionTwo" > { user ? "Sign Out" : "Sign In" } 
         </span>
         </div>
         </Link> 
         <div className = "header_option" >
-        <span className = "header_optionOne" > { user ? "Returns" : " " } < /span>{" "} 
+        <span className = "header_optionOne" > { user ? "Returns" : " " } < /span>
         <span className = "header_optionTwo" > { user ? "& Order" : " " } < /span>{" "} 
         </div>{" "} 
         <div className = "header_option" >
