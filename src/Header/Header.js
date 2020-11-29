@@ -44,8 +44,8 @@ function Header() {
         <div className = "header_option" >
         <span className = "header_optionOne" > { user ? "Your" : " " } < /span> 
         <span className = "header_optionTwo" > { user ? "Prime" : " " } < /span> 
-        </div> <
-        Link to = "/checkout" >
+        </div> 
+        <Link to = "/checkout" >
         <
         div className = "header_option_basket" > { " " } { user ? < ShoppingCartIcon / > : " " } { " " } <
         span className = "header_optionTwo header_basket_count" > { " " } { user ? basket.length : " " } { " " } <
