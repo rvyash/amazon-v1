@@ -48,9 +48,9 @@ function Header() {
         <Link to = "/checkout" >
         <div className = "header_option_basket" > { user ? < ShoppingCartIcon / > : " " }  
         <span className = "header_optionTwo header_basket_count" >  { user ? basket.length : " " }  
-        </span>{" "} <
-        /div>{" "} <
-        /Link>{" "} <
+        </span>{" "} 
+        </div>{" "} 
+        </Link>{" "} <
         /div>{" "} <
         /div>
     );
