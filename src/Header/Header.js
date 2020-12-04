@@ -51,8 +51,8 @@ function Header() {
         </span>
         </div>
         </Link> 
-        </div>{" "} <
-        /div>
+        </div> 
+        </div>
     );
 }
 
