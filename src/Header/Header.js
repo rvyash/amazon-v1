@@ -50,7 +50,7 @@ function Header() {
         <span className = "header_optionTwo header_basket_count" >  { user ? basket.length : " " }  
         </span>
         </div>
-        </Link>{" "} 
+        </Link> 
         </div>{" "} <
         /div>
     );
