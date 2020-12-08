@@ -1,4 +1,4 @@
-// Header.js: File for the header component 
+// Header.js: File for the header component which consists navbar components 
 import React from "react";
 import "./Header.css";
 import ShoppingCartIcon from "@material-ui/icons/ShoppingCart";
