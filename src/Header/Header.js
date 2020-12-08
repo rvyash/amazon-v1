@@ -1,4 +1,4 @@
-// Header.js
+// Header.js: File for the header component 
 import React from "react";
 import "./Header.css";
 import ShoppingCartIcon from "@material-ui/icons/ShoppingCart";
