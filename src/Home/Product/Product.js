@@ -29,10 +29,9 @@ function Product({ title, image, price, rating }) {
         <div className = "product_rating" > {
             Array(rating)
             .fill()
-            .map((_, i) => ( <
-                p >
-                <
-                StarRateIcon / >
+            .map((_, i) => ( 
+               <p>
+                <StarRateIcon / >
                 <
                 /p>
             ))
