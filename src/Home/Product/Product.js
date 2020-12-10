@@ -32,8 +32,7 @@ function Product({ title, image, price, rating }) {
             .map((_, i) => ( 
                <p>
                 <StarRateIcon />
-                <
-                /p>
+                </p>
             ))
         } <
         /div> <
