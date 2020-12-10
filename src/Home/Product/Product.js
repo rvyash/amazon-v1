@@ -35,8 +35,8 @@ function Product({ title, image, price, rating }) {
                 </p>
             ))
         } 
+        </div> 
         </div> <
-        /div> <
         img src = { image }
         alt = "" / >
         <
