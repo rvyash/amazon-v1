@@ -34,8 +34,8 @@ function Product({ title, image, price, rating }) {
                 <StarRateIcon />
                 </p>
             ))
-        } <
-        /div> <
+        } 
+        </div> <
         /div> <
         img src = { image }
         alt = "" / >
