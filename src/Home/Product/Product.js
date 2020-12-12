@@ -1,3 +1,4 @@
+// product.js 
 import React from "react";
 import "./Product.css";
 import StarRateIcon from "@material-ui/icons/StarRate";
