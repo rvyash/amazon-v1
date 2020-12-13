@@ -41,8 +41,8 @@ function Product({ title, image, price, rating }) {
         img src = { image }
         alt = "" / >
         <
-        button onClick = { addToBasket } > Add to cart < /button>{" "} <
-        /div>
+        button onClick = { addToBasket } > Add to cart < /button>{" "} 
+       </div>
     );
 }
 
