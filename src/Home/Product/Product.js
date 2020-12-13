@@ -1,4 +1,4 @@
-// product.js :- File contains the details about the product 
+// product.js :- File contains the details about the products feom thne database 
 import React from "react";
 import "./Product.css";
 import StarRateIcon from "@material-ui/icons/StarRate";
