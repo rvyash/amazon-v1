@@ -4,8 +4,8 @@ import HomeImg from "./HomeImg.jpg";
 import Product from "./Product/Product";
 
 function Home() {
-    return ( <
-        div className = "home" >
+    return ( 
+        <div className = "home" >
         <
         div className = "home_container" >
         <
