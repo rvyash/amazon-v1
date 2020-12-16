@@ -6,8 +6,7 @@ import Product from "./Product/Product";
 function Home() {
     return ( 
         <div className = "home" >
-        <
-        div className = "home_container" >
+        <div className = "home_container" >
         <
         img src = { HomeImg }
         alt = "logo"
