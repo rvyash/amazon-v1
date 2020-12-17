@@ -7,12 +7,10 @@ function Home() {
     return ( 
         <div className = "home" >
         <div className = "home_container" >
-        <
-        img src = { HomeImg }
+        <img src = { HomeImg }
         alt = "logo"
         className = "home_img" />
-        <
-        div className = "home_row" >
+        <div className = "home_row" >
         <
         Product id = "01"
         title = "Gigabyte GeForce RTX 2080 Super Gaming OC 8G Graphics Card, , 8GB 256-Bit GDDR6"
