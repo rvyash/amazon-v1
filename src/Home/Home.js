@@ -11,8 +11,7 @@ function Home() {
         alt = "logo"
         className = "home_img" />
         <div className = "home_row" >
-        <
-        Product id = "01"
+        <Product id = "01"
         title = "Gigabyte GeForce RTX 2080 Super Gaming OC 8G Graphics Card, , 8GB 256-Bit GDDR6"
         image = "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/nvidia-geforce-rtx-20-series-super-graphics-cards/nvidia-geforce-rtx-2080-super-photo-003.jpg"
         price = { 59999.75 }
