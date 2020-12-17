@@ -29,8 +29,8 @@ function Home() {
           price = { 85000 }
           rating = { 4 }
          /> 
-        </div> <
-        div className = "home_row" >
+        </div> 
+        <div className = "home_row" >
         <
         Product id = "04"
         title = "Headphone"
