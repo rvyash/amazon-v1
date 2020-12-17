@@ -16,12 +16,12 @@ function Home() {
         image = "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/nvidia-geforce-rtx-20-series-super-graphics-cards/nvidia-geforce-rtx-2080-super-photo-003.jpg"
         price = { 59999.75 }
         rating = { 5 }
-        />{" "} <
-        Product id = "02"
-        title = "here is second one"
-        image = "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/nvidia-geforce-rtx-20-series-super-graphics-cards/nvidia-geforce-rtx-20-series-super-graphics-cards-ogimage.jpg"
-        price = { 30000 }
-        rating = { 4 }
+        /> 
+        <Product id = "02"
+         title = "here is second one"
+         image = "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/nvidia-geforce-rtx-20-series-super-graphics-cards/nvidia-geforce-rtx-20-series-super-graphics-cards-ogimage.jpg"
+         price = { 30000 }
+         rating = { 4 }
         />{" "} <
         Product id = "03"
         title = "Apple iPhone 11 Pro (64GB) - Space Grey"
