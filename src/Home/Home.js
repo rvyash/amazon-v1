@@ -42,8 +42,8 @@ function Home() {
          image = "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/nvidia-geforce-rtx-20-series-super-graphics-cards/nvidia-geforce-rtx-20-series-super-graphics-cards-ogimage.jpg"
          price = { 30000 }
          rating = { 4 }
-        />{" "} <
-        /div>{" "} <
+        /> 
+        </div>{" "} <
         div className = "home_row" >
         <
         Product id = "06"
