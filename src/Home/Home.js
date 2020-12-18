@@ -31,18 +31,17 @@ function Home() {
          /> 
         </div> 
         <div className = "home_row" >
-        <
-        Product id = "04"
+        <Product id = "04"
         title = "Headphone"
         image = "https://specials-images.forbesimg.com/imageserve/5e8ce586748506000636107e/960x0.jpg?fit=scale"
         price = { 7000 }
         rating = { 3 }
-        />{" "} <
-        Product id = "05"
-        title = "here is second onehere is second onehere is second onehere is second one here is second onehere is second onehere  "
-        image = "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/nvidia-geforce-rtx-20-series-super-graphics-cards/nvidia-geforce-rtx-20-series-super-graphics-cards-ogimage.jpg"
-        price = { 30000 }
-        rating = { 4 }
+        /> 
+        <Product id = "05"
+         title = "here is second onehere is second onehere is second onehere is second one here is second onehere is second onehere  "
+         image = "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/nvidia-geforce-rtx-20-series-super-graphics-cards/nvidia-geforce-rtx-20-series-super-graphics-cards-ogimage.jpg"
+         price = { 30000 }
+         rating = { 4 }
         />{" "} <
         /div>{" "} <
         div className = "home_row" >
