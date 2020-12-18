@@ -43,10 +43,9 @@ function Home() {
          price = { 30000 }
          rating = { 4 }
         /> 
-        </div>{" "} <
-        div className = "home_row" >
-        <
-        Product id = "06"
+        </div> 
+        <div className = "home_row" >
+        <Product id = "06"
         title = "ADIDAS shoes"
         image = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDo-yWQywcA_sW0VZIF03WBuyzmWI_-6uLig&usqp=CAU"
         price = { 3700 }
