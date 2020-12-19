@@ -50,7 +50,7 @@ function Home() {
         image = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDo-yWQywcA_sW0VZIF03WBuyzmWI_-6uLig&usqp=CAU"
         price = { 3700 }
         rating = { 3 }
-        />{" "} <
+        /> <
         /div>{" "} <
         /div>{" "} <
         /div>
