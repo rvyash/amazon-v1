@@ -51,8 +51,8 @@ function Home() {
         price = { 3700 }
         rating = { 3 }
         /> 
+        </div> 
         </div> <
-        /div>{" "} <
         /div>
     );
 }
