@@ -1,3 +1,4 @@
+// Home.js: This file provides the details abouth the  different products.
 import React from "react";
 import "./Home.css";
 import HomeImg from "./HomeImg.jpg";
