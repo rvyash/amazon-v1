@@ -8,8 +8,8 @@ function Prelogin() {
         <div className = "prelogin_image" >
         <img src = { Preimage }
         />
-        </div>{" "} <
-        /div>
+        </div> 
+        </div>
     );
 }
 
