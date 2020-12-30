@@ -6,8 +6,7 @@ function Prelogin() {
     return ( 
         <div className = "prelogin" >
         <div className = "prelogin_image" >
-        <img src = { Preimage }
-        />
+        <img src = { Preimage } />
         </div> 
         </div>
     );
