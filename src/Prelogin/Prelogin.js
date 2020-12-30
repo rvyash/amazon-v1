@@ -6,10 +6,9 @@ function Prelogin() {
     return ( 
         <div className = "prelogin" >
         <div className = "prelogin_image" >
-        <
-        img src = { Preimage }
-        />{" "} <
-        /div>{" "} <
+        <img src = { Preimage }
+        />
+        </div>{" "} <
         /div>
     );
 }
