@@ -62,12 +62,10 @@ function Payment() {
         setError(e.error ? e.error.message : " ");
     };
 
-    return ( <
-            div className = "payment" >
-            <
-            div className = "payment_container" >
-            <
-            h1 > You have { basket.length } - items in the Order < /h1>{" "} <
+    return ( 
+           <div className = "payment" >
+           <div className = "payment_container" >
+           <h1> You have { basket.length } - items in the Order </h1>{" "} <
             div className = "payment_section" >
             <
             div className = "payment_title" >
