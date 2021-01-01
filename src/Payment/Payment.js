@@ -68,11 +68,9 @@ function Payment() {
            <h1> You have { basket.length } - items in the Order </h1>
            <div className = "payment_section" >
            <div className = "payment_title" >
-           <h2> Delivery Address </h2>{" "} < /
-            div > { " " } <
-            div className = "payment_add" >
-            <
-            p >
+           <h2> Delivery Address </h2> </div >  
+           <div className = "payment_add" >
+           <p>
             <
             strong > Email: < /strong> {!user ? " " : user.email}{" "} < /
             p > { " " } <
