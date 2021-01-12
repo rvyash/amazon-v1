@@ -72,8 +72,8 @@ function Payment() {
            <div className = "payment_add" >
            <p>
            <strong > Email: < /strong> {!user ? " " : user.email} </p> 
-           <p> mera pata < /p>{" "} < /
-            div > { " " } <
+           <p> mera pata </p> 
+           </div > { " " } <
             /div>{" "} <
             div className = "payment_section" >
             <
