@@ -73,8 +73,9 @@ function Payment() {
            <p>
            <strong > Email: < /strong> {!user ? " " : user.email} </p> 
            <p> mera pata </p> 
-           </div > { " " } <
-            /div>{" "} <
+           </div > 
+            </div> 
+            <
             div className = "payment_section" >
             <
             div className = "payment_title" >
