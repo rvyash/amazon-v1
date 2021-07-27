@@ -9,10 +9,10 @@ The website is empowered with the Firebase for performing the Login and Sign-Up 
 As the app is not yet hosted, So It can be viewed by following steps-
 
 ### Requirements: Follow the below steps to setup a React development environment and test it by downloading and running an example React application.
--> Install Node.js and npm
--> Install the Git CLI
--> Install Visual Studio Code
--> Run an example React application (optional)
+-> Install Node.js and npm <br>
+-> Install the Git CLI <br>
+-> Install Visual Studio Code <br>
+-> Run an example React application (optional) <br>
 👉 [To view the steps](https://jasonwatmore.com/post/2020/06/02/react-setup-development-environment)
 
 
