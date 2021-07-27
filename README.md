@@ -19,17 +19,17 @@ As the app is not yet hosted, So It can be viewed by following steps-
 ### Steps to run the project 
 
 `Step 1`  Open your terminal and then type
-$ git clone {https://github.com/YashV1729/amazon-v1}
+`$ git clone {https://github.com/YashV1729/amazon-v1}`
 
 This clones the repo.
 
 `Step 2`  cd into the new folder and type
-$ npm install
+`$ npm install`
 
 This installs the required dependencies
 
 `Step 3` To run the React project.
-$ npm start
+`$ npm start`
 
 You are done! Now you can start editing the React project in the new folder that's created.
 
