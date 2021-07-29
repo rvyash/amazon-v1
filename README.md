@@ -5,8 +5,12 @@ This is a demo e-commerce website in React JS with all the basic functionalities
 The  project is made using [ Creat-react-app ] and concepts which have been used includes: React Functional Componenets, React Router, JSX, Redux, Session storage, etc;
 The website is empowered with the Firebase for performing the Login and Sign-Up operations and soon will be hosted using firebase(as some features are to be integrated for better experience).
 
+
+
 ## Here is a Sample image of the landing page👇
 ![image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/373c5775629407.5c51dddc2e2bd.png)
+
+
 
 ## Running the app in the Local environment
 
@@ -18,6 +22,7 @@ As the app is not yet hosted, So It can be viewed by following steps-
 -> Install Visual Studio Code <br>
 -> Run an example React application (optional) <br>
 👉 [To view the steps](https://jasonwatmore.com/post/2020/06/02/react-setup-development-environment)
+
 
 
 ### Steps to run the project 
