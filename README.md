@@ -1,7 +1,7 @@
 
 # About the Project: 
 
-![image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/373c5775629407.5c51dddc2e2bd.png)
+[image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/373c5775629407.5c51dddc2e2bd.png)
 
 This is a demo e-commerce website in React JS with all the basic functionalities like, Authentication, Authorisation, Dynamic cart items, Price and Payment integration.
 The  project is made using [ Creat-react-app ] and concepts which have been used includes: React Functional Componenets, React Router, JSX, Redux, Session storage, etc;
